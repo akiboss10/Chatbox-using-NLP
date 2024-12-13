@@ -2,6 +2,7 @@
 # NLP Chatbox Implementation  
 
 This repository contains the implementation of a chatbot using Natural Language Processing (NLP) techniques. The chatbot is designed to provide meaningful responses to user inputs by recognizing intents defined in the `intents.json` file. The project utilizes Python, and the chatbot interface is built using **Streamlit**.  
+![Screenshot 2024-12-13 153609](https://github.com/user-attachments/assets/7f942355-be19-4b9c-8244-da4779b9924b)
 
 ---
 
